@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyPermissionsDemo</string>
+    <string name="permissions_granted">Permissions Granted</string>
+</resources>
